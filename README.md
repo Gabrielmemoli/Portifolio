@@ -1,1 +1,3 @@
-# Portifolio de Gabrile Memoli
+# Portifolio de Gabriel Memoli
+
+Projeto contendo o portifolio do desenvolvedor Gabriel Memoli
